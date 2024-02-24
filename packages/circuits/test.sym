@@ -1,0 +1,8 @@
+1,1,1,main.predictionCorrect
+2,-1,1,main.openPrice
+3,-1,1,main.closePrice
+4,-1,1,main.predictedGreen
+5,-1,0,main.checkPrediction.predictionCorrect
+6,-1,0,main.checkPrediction.openPrice
+7,-1,0,main.checkPrediction.closePrice
+8,-1,0,main.checkPrediction.predictedGreen

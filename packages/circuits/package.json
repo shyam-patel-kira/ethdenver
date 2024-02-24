@@ -1,0 +1,7 @@
+{
+	"name": "@se-2/circuits",
+	"version": "0.0.1",
+	"scripts": {
+		"compile": "circom -l node_modules main.circom -o --r1cs --wasm --sym --c"
+	}
+}
